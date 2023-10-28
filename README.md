@@ -1,5 +1,7 @@
 # Student-Spend-Analysis-Power-BI
 
+Power BI Report.png
+
 ## Overview
 This project involves the analysis of student spending habits in various stores. A survey was conducted to collect data on how much students spend on different types of purchases such as Video games, Indoor games, Toys, Books, Gadgets, and more. The dataset, named "Student Survey," contains information about the stores, their locations, and the spending habits of students. The primary objective is to extract meaningful insights from this dataset using Power BI.
 
