@@ -41,5 +41,3 @@ Create a Power BI Report that includes the following visualizations and features
     - Utilize the Q&A feature to:
         a) Show the average age of students
         b) Create a Donut chart for total amount of purchases by 'Store location'
-
-Feel free to use this as a template for your GitHub README.
