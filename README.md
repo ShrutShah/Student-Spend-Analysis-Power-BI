@@ -1,6 +1,6 @@
 # Student-Spend-Analysis-Power-BI
 
-![Student Spending Analysis](Power BI Report.png)
+![Student Spending Analysis](https://github.com/ShrutShah/Student-Spend-Analysis-Power-BI/blob/main/Power%20BI%20Report.png)
 
 
 ## Overview
